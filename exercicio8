@@ -1,0 +1,9 @@
+et quantidade = O 
+for (let i = 1 ; i <= 50; i++){
+    if(i % 3 == 0){
+        quantidade = quantidade + 1 
+        console.loglet quantidade = 0
+       console.log(`A quantidade de divisiveis é de: `+ quantidade)
+        
+    }
+    }
